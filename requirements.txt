@@ -1,0 +1,17 @@
+# Web scraping
+selenium==4.21.0
+beautifulsoup4==4.12.3
+webdriver-manager==4.0.1
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Vector database
+faiss-cpu==1.7.4
+
+# Environment variable loader
+python-dotenv==1.0.1
+
+# HTTP requests
+requests==2.31.0
